@@ -20,4 +20,4 @@ This will create `sample.app` in `./build` directory.
 Load this binary to PocketBook via USB into directory `/applications`
 (may be hidden) and start it via default app interface:
 
-![Sample](./docs/sample.jpg)
+<img src="https://github.com/kotborealis/pocketbook-sdk-sample/raw/master/docs/sample.jpg" height="400" />
